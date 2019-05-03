@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ml-station/Documents/aune/mqtt_reader/mqtt_reader/mqtt_reader.csproj": {}
+  },
+  "projects": {
+    "/home/ml-station/Documents/aune/mqtt_reader/mqtt_reader/mqtt_reader.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ml-station/Documents/aune/mqtt_reader/mqtt_reader/mqtt_reader.csproj",
+        "projectName": "mqtt_reader",
+        "projectPath": "/home/ml-station/Documents/aune/mqtt_reader/mqtt_reader/mqtt_reader.csproj",
+        "packagesPath": "/home/ml-station/.nuget/packages/",
+        "outputPath": "/home/ml-station/Documents/aune/mqtt_reader/mqtt_reader/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/ml-station/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
