@@ -45,7 +45,7 @@
             },
             "Microsoft.Azure.Devices.Client": {
               "target": "Package",
-              "version": "(, )"
+              "version": "[1.20.1, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",

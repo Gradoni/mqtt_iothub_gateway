@@ -1,15 +1,15 @@
 using System;
 
-namespace Message
+namespace Message_custom
 {
-    class Message 
+    class Message_read 
     {
         public DateTime TimestampGMT;
         public string Location;
         public double Speed;
         public double Freq;
 
-        public Message()
+        public Message_read()
         {
             TimestampGMT = new DateTime();
             Location = "Junction3";
