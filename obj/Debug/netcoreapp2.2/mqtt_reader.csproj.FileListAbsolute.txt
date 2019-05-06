@@ -1,0 +1,11 @@
+/home/ml-station/Documents/aune/mqtt_reader/mqtt_reader/obj/Debug/netcoreapp2.2/mqtt_reader.csprojAssemblyReference.cache
+/home/ml-station/Documents/aune/mqtt_reader/mqtt_reader/obj/Debug/netcoreapp2.2/mqtt_reader.csproj.CoreCompileInputs.cache
+/home/ml-station/Documents/aune/mqtt_reader/mqtt_reader/obj/Debug/netcoreapp2.2/mqtt_reader.AssemblyInfoInputs.cache
+/home/ml-station/Documents/aune/mqtt_reader/mqtt_reader/obj/Debug/netcoreapp2.2/mqtt_reader.AssemblyInfo.cs
+/home/ml-station/Documents/aune/mqtt_reader/mqtt_reader/bin/Debug/netcoreapp2.2/mqtt_reader.deps.json
+/home/ml-station/Documents/aune/mqtt_reader/mqtt_reader/bin/Debug/netcoreapp2.2/mqtt_reader.runtimeconfig.json
+/home/ml-station/Documents/aune/mqtt_reader/mqtt_reader/bin/Debug/netcoreapp2.2/mqtt_reader.runtimeconfig.dev.json
+/home/ml-station/Documents/aune/mqtt_reader/mqtt_reader/bin/Debug/netcoreapp2.2/mqtt_reader.dll
+/home/ml-station/Documents/aune/mqtt_reader/mqtt_reader/bin/Debug/netcoreapp2.2/mqtt_reader.pdb
+/home/ml-station/Documents/aune/mqtt_reader/mqtt_reader/obj/Debug/netcoreapp2.2/mqtt_reader.dll
+/home/ml-station/Documents/aune/mqtt_reader/mqtt_reader/obj/Debug/netcoreapp2.2/mqtt_reader.pdb
